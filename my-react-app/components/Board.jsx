@@ -7,8 +7,8 @@ function Board(props){
  const height = props. height;
 
 const mystyle = {
-"x": positionX,
-"y": positionY,
+"left": positionX,
+"top": positionY,
 "width": width,
 "height": height,
 "background-color": "green",

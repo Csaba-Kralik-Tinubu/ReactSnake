@@ -17,7 +17,6 @@ const mystyle = {
 
 return (
     <div style={mystyle}>
-    <p>hello</p>
     </div>
 )
 }
